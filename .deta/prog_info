@@ -1,0 +1,1 @@
+{"id":"b300db44-a999-48f4-bdbb-5cc7dbb69e36","space":29450,"runtime":"python3.9","name":"go-germany-ping","path":"ogaqrn","project":"c0s1lxgo","account":"144798365827","region":"ap-southeast-1","deps":["requests"],"envs":null,"public":true,"log_level":"debug","cron":"5 minutes"}
